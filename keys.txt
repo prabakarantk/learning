@@ -1,0 +1,13 @@
+ls --  List current directory
+pwd -- current directory path
+cd -- to go inside the folder
+cd .. -- come outside folder
+sudo -- super user
+vim -- editor
+sudo vim filename.txt -- to create new text file
+
+
+git commands:
+git clone repo URL -- to clone the repo from git
+git remote -v -- which repo is git connected
+
