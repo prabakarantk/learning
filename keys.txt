@@ -14,3 +14,4 @@ git commit -am "message" -- commit to git
 git push origin main(branch_name) -- push
 git log - check the list of commits
 git status -- check the status
+git pull
