@@ -10,4 +10,8 @@ sudo vim filename.txt -- to create new text file
 git commands:
 git clone repo URL -- to clone the repo from git
 git remote -v -- which repo is git connected
-
+git add --all -- add to git
+git commit -am "message" -- commit to git
+git push origin main(branch_name) -- push
+git log - check the list of commits
+git status -- check the status
